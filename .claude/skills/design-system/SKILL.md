@@ -50,6 +50,10 @@ Semantic tokens (defined in [globals.css](frontend/src/app/globals.css), in `okl
 | Focus rings | `ring-ring` (shadcn uses `focus-visible:ring-ring/50 ring-[3px]`) |
 | Danger | `bg-destructive` / `text-destructive` |
 
+### New Feedback Integrations
+
+- Consider increasing the usage of **blue** as a primary or accent color throughout the design to enhance visual appeal and align with brand strategy. This can be achieved by adjusting SCSS variables or selecting blue-based tokens where applicable.
+
 Radius scale is driven by `--radius: 0.625rem`: `rounded-sm/md/lg/xl` derive from it. Default to `rounded-md` for controls, `rounded-lg` for cards/panels.
 
 ### Variable colors (the app's signature system)
